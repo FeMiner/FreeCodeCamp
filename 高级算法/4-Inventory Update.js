@@ -1,5 +1,5 @@
 //管理库存
-
+/*2016-6-23 By沐浴星光*/
 function updateInventory(arr1, arr2) {
 
     var remain=[];

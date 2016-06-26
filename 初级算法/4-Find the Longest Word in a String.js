@@ -1,5 +1,5 @@
 // 计算句子中最长单词的长度
-/*2016-6-18 By沐浴星光*/
+/*2016-6-19 By沐浴星光*/
 Array.prototype.myMap = function (fn) {//ES5之前不支持数组迭代方法，自定义一个迭代方法
   var ary = [];
   if (Array.prototype.map) {//如果有原生迭代map方法就直接调用

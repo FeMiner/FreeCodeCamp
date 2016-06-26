@@ -1,4 +1,5 @@
 //回文字符串
+/*2016-6-19 By沐浴星光*/
 function palindrome(str) {
   
   var newStr=str.replace(/[^a-zA-Z0-9]/g,"").toLowerCase();//将非数字字母替换掉

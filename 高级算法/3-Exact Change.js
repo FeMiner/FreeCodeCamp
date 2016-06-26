@@ -1,5 +1,5 @@
 //收银机找零(浮点数运算存在误差)
-
+/*2016-6-23 By沐浴星光*/
 function checkCashRegister(price, cash, cid) {
 	var diff=cash-price;//找零的金额
 	var change=[];//找零方案数组

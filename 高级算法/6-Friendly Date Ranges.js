@@ -1,4 +1,5 @@
- //日期格式化成风格友好格式 
+ //日期格式化成风格友好格式
+ ///*2016-6-23 By沐浴星光*/ 
 function makeFriendlyDates(arr) {
 	var result=[];
 	var Months=['January','February','March','April','May','June','July','August','September','October','November','December'];

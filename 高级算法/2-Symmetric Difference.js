@@ -1,4 +1,5 @@
 //求数组集对称差分数组
+///*2016-6-22 By沐浴星光*/
 function sym(args) {
 	var arrays=Array.prototype.slice.call(arguments);
 
